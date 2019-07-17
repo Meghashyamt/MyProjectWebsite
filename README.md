@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## My Worked Projects
 
-You can use the [editor on GitHub](https://github.com/Meghashyamt/MyProjectWebsite/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+One of the most common confusions arises among the modern technologies such as artificial intelligence, machine learning, big data, data science, deep learning and more. While they are all closely interconnected, each has a distinct purpose and functionality. Over the past few years, the popularity of these technologies has risen to such an extent that several companies have now woken up to their importance on massive levels and are increasingly looking to implement them for their business growth.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+However, among aspirants, there seem to be clouds of misconceptions surrounding these various technologies.
 
-### Markdown
+###Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## House Price -Linear Regression
+``` 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Meghashyamt/MyProjectWebsite/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![Image](https://images.app.goo.gl/WgwtYNwdgTh1fCyH9)
