@@ -4,9 +4,9 @@ One of the most common confusions arises among the modern technologies such as a
 
 However, among aspirants, there seem to be clouds of misconceptions surrounding these various technologies.
 
-### Projects
+## Projects
 
-## House Price -Linear Regression
+### House Price -Linear Regression
 
 ``` 
 
