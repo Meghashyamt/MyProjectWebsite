@@ -4,12 +4,18 @@ One of the most common confusions arises among the modern technologies such as a
 
 However, among aspirants, there seem to be clouds of misconceptions surrounding these various technologies.
 
+![DataScience Life Cycle](DScycle.png)
+
 ## Projects
 
 ### House Price -Linear Regression
+A house value is simply more than location and square footage. Like the features that make up a person, an educated party would want to know all aspects that give a house its value.
+
+We are going to take advantage of all of the feature variables available to use and use it to analyze and predict house prices.
+
 
 ``` 
 
 ```
 
-![DataScience Life Cycle](DScycle.png)
+
