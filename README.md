@@ -99,7 +99,8 @@ print('Best Penalty:', best_log
 ### Time Series
 How you can opt the data everydate and time using Time Series Algorithm
 
-```import numpy as np
+```
+import numpy as np
 import pandas as pd
 from pandas import datetime
 import matplotlib.pyplot as plt
@@ -111,4 +112,5 @@ def parser(x):
 data= pd.read_csv("sales.csv", index_col=0, parse_dates=[0], date_parser=parser)
 
 ```
+
 [Click here for more](https://github.com/Meghashyamt/python/blob/master/TimeSeries.ipynb)
