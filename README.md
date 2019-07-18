@@ -15,9 +15,11 @@ We are going to take advantage of all of the feature variables available to use 
 
 
 ``` 
-[Click here for more](https://github.com/Meghashyamt/House-price)
+
 
 ```
+[Click here for more](https://github.com/Meghashyamt/House-price)
+
 ### Import Kaggle Data
 Struggling to work on large datasets in Kaggle to notebooks, here the required code you can work on easily
  
