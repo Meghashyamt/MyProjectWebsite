@@ -15,21 +15,47 @@ We are going to take advantage of all of the feature variables available to use 
 
 
 ``` 
+[Click here for more](https://github.com/Meghashyamt/House-price)
 
 ```
 ### Import Kaggle Data
 Struggling to work on large datasets in Kaggle to notebooks, here the required code you can work on easily
  
 ```
+Easy Steps to persist Kaggle profile
+
+Download kaggle.json from Kaggle -- MyAccount -- Create New API Token - auto downloads as "kaggle.json
+
+Import json into notebook - run in a cell from google.colab import files files.upload()
+
+Browse to downloaded kaggle.json and upload Setup Kaggle DIR; copy json file ; chmod !mkdir -p ~/.kaggle !cp kaggle.json ~/.kaggle/ !chmod 600 ~/.kaggle/kaggle.json !ls ~/.kaggle
+
+Verify json content !ls -l ~/.kaggle !cat ~/.kaggle/kaggle.json
+
+Install kaggle packages !pip install -q kaggle !pip install -q kaggle-cli
+
+List Kaggle DataSets !kaggle datasets list
+
+[Click here for more](https://github.com/Meghashyamt/ImportKaggleData)
 ```
+
 ### Movie Review -Sentimental Analysis
 How about you find out the personal opinion of a person? We can use Sentimental Analysis -textblob
 
 ```
+
+[Click here for more](https://github.com/Meghashyamt/Movie-Review-Sentiment-Analysisa)
+```
+### Parameter Tuning
+For every Algorithm we would be struggling to tune your data to meet the 100% accuracy.
+We can tune it the best using parameter changes
+```
+[Click here for more](https://github.com/Meghashyamt/Parameter-Tuning-ML)
 ```
 
 ### Time Series
 How you can opt the data everydate and time using Time Series Algorithm
 
 ```
+[Click here for more](https://github.com/Meghashyamt/python/blob/master/TimeSeries.ipynb)
 ```
