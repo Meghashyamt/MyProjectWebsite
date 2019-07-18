@@ -12,4 +12,4 @@ However, among aspirants, there seem to be clouds of misconceptions surrounding 
 
 ```
 
-![DataScience Life Cycle](DSlifecycle.png)
+![DataScience Life Cycle](DScycle.png)
