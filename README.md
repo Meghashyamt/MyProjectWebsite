@@ -12,4 +12,4 @@ However, among aspirants, there seem to be clouds of misconceptions surrounding 
 
 ```
 
-[DataScience Life Cycle](https://github.com/Meghashyamt/MyProjectWebsite/blob/master/Screenshot%20from%202019-07-17%2019-57-13.png)
+[DataScience Life Cycle](DSlifecycle.png)
