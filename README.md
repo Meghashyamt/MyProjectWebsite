@@ -17,5 +17,19 @@ We are going to take advantage of all of the feature variables available to use 
 ``` 
 
 ```
+### Import Kaggle Data
+Struggling to work on large datasets in Kaggle to notebooks, here the required code you can work on easily
+ 
+```
+```
+### Movie Review -Sentimental Analysis
+How about you find out the personal opinion of a person? We can use Sentimental Analysis -textblob
 
+```
+```
 
+### Time Series
+How you can opt the data everydate and time using Time Series Algorithm
+
+```
+```
