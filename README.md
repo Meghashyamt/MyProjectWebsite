@@ -76,7 +76,18 @@ Data Description:
 
 The core dataset contains 50,000 reviews split evenly into 25k train and 25k test sets. The overall distribution of labels is balanced (25k pos and 25k neg). In the labeled train/test sets, a negative review has a score <= 4 out of 10, and a positive review has a score >= 7 out of 10. Thus reviews with more neutral ratings are not included in the train/test sets.
 ```
-[Click here for more](https://github.com/Meghashyamt/Movie-Review-Sentiment-Analysisa)
+[Click here for more](https://github.com/Meghashyamt/Movie-Review-Sentiment-Analysis)
+
+### Vadar Sentimental Analysis
+How about you find out the personal opinion of a person? We can use Sentimental Analysis -using Vadar
+
+```
+Data Description:
+
+Check each sentence for personal opinion using vadar sentimental Analysis
+
+```
+[Click here for more](https://github.com/Meghashyamt/Vadar-Sentiment-Analysis)
 
 ### Parameter Tuning
 For every Algorithm we would be struggling to tune your data to meet the 100% accuracy.
